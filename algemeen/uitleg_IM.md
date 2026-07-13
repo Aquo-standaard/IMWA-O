@@ -6,7 +6,7 @@ Elk informatiemodel heeft een aantal vaste elementen. Door deze elementen goed t
 
 ## Objecttypen
 
-Een objecttype is een modelelement dat wordt gebruikt om de objecten waarover wordt gesproken in een specifiek werkveld te modelleren (voor de watersector bijvoorbeeld een oever, een waterbodem, een observatie, een norm etc.). Deze objecttype hebben bijna altijd eigenschappen die wij attributen noemen. D Deze objecttypen hebben altijd relaties met elkaar. Deze relaties zorgen er voor de alle objecten in het model in samenhang worden gebracht en een betekenisvolle eenheid vormen. In het model zijn dit de verschillende blokken die zijn aangeduid als *Objecttype*.
+Een objecttype is een modelelement dat wordt gebruikt om de objecten waarover wordt gesproken in een specifiek werkveld te modelleren (voor de watersector bijvoorbeeld een oever, een waterbodem, een observatie, een norm etc.). Deze objecttype hebben bijna altijd eigenschappen die wij attributen noemen. Deze objecttypen hebben altijd relaties met elkaar. Deze relaties zorgen er voor de alle objecten in het model in samenhang worden gebracht en een betekenisvolle eenheid vormen. In het model zijn dit de verschillende blokken die zijn aangeduid als *Objecttype*.
 
 ## Attributen
 
