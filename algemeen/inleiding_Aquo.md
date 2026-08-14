@@ -9,6 +9,8 @@ De Aquo-standaard draagt daarmee bij aan de kwaliteit van het waterbeheer. Het e
 Aquo is voor overheidsorganisaties een verplichte open standaard, die is ontwikkeld en wordt beheerd door het Informatiehuis Water. Het Informatiehuis Water is een samenwerkingsprogramma van Rijkswaterstaat, de waterschappen en de provincies.  
 Het Informatiehuis Water ontzorgt waterbeheerders en beleidsmakers bij het uitwisselen van waterinformatie.
 
+Zie voor meer informatie over de opbouw van de Aquo-standaard:[Aquo Wiki](https://www.aquo.nl/index.php/Opbouw_Aquo-standaard)
+
 ## Het Informatiemodel Water (IMWA)
 
 Het Informatiemodel Water (IMWA) beschrijft de structuur die gebruikt wordt voor informatie-uitwisseling in het waterbeheer. IMWA is gebaseerd op de landelijke standaard NEN3610:2022, waarin staat hoe geografische gegevens uitgewisseld moeten worden. In het IMWA worden de concepten beschreven die binnen het waterbeheer worden gebruikt, de onderlinge relaties tussen de objecten en de eigenschappen van de objecten.
